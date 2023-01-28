@@ -1,1 +1,1 @@
-# mwdd-for-woocommerce
+# Merchant Warrior Direct Debit for WooCommerce
