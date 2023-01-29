@@ -1,1 +1,1 @@
-# Merchant Warrior Direct Debit for WooCommerce
+# Merchant Warrior Hosted Payments for WooCommerce
