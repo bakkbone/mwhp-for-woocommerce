@@ -1,4 +1,4 @@
-=== BAKKBONE Florist Companion ===
+=== Merchant Warrior PAY.Link for WooCommerce ===
 Contributors: bakkbone
 Donate link: https://ko-fi.com/bakkbone_scott
 Tags: payment,gateway,woocommerce,ecommerce
