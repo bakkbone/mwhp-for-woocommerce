@@ -3,7 +3,7 @@ Contributors: bakkbone
 Donate link: https://ko-fi.com/bakkbone_scott
 Tags: payment,gateway,woocommerce,ecommerce
 Requires at least: 6.0
-Tested up to: 6.1.1
+Tested up to: 6.2
 Requires PHP: 7.4
 Stable tag: 0.0.1
 License: GNU General Public License (GPL) 3.0
